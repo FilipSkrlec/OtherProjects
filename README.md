@@ -9,5 +9,10 @@ In this project I was part of the backend team. Node.js was used for backend. My
  
 # Analysis of crimes and socio-economic factors (faculty group project)  
 https://github.com/BrunoCoric/Analiza-kriminala-i-socio-ekonomskih-faktora  
-This projects analyzes connection between crimes and socio-economic factors in Chicago based on Chicago PD's public data.  
+This project analyzes connection between crimes and socio-economic factors in Chicago based on Chicago PD's public data.  
 In this project my job was to do linear regression and make regression models in R language.  
+
+# Domago cars
+https://gitlab.com/projekt-r-grupa-8-2020/domago-cars-2  
+This project uses Cartesian genetic programming and neural networks to train AI cars for custom race tracks. It also enables user to drive care manually.  
+Language used for this project is C++.  
